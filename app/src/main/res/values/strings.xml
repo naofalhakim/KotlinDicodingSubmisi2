@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FinalSubmisi2</string>
+    <string name="next_match">Next Match</string>
+    <string name="last_match">Last Match</string>
+</resources>
